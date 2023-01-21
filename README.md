@@ -1,2 +1,2 @@
 # analisis-kredit
-Contoh penggunaaan tool/libabry dalam Data Science.
+Contoh penggunaaan tool/library dalam Data Science.
